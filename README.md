@@ -1,5 +1,3 @@
-# test-py
-first repo for gitHub
-yeni denemeler yapılacaktır.
-satır-1
+# The aim of this repo is to learn how to use Git and GitHub
+
 
